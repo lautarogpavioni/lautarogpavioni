@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 📚 Physicist
-- 💻 Data Analyst|Data Scientist
+- 💻 Data Analyst | Data Scientist
 - 🧠 Machine learning enthusiast
 
 <!--
